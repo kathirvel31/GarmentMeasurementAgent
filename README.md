@@ -74,7 +74,7 @@ npm run dev
 
 ## 📸 Sample Output
 
-![Sample Output](backend/figs/sampleop.jpeg)
+![Sample Output](backend/figs/result.jpg)
 
 ## 📄 License
 
