@@ -1,0 +1,12 @@
+.venv
+__pycache__
+runs
+
+# AI model files
+# models/
+*.pt
+
+# macOS
+.DS_Store
+
+.vscode

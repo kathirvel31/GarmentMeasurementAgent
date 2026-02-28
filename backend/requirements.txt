@@ -1,0 +1,7 @@
+ultralytics
+Pillow
+datetime
+gdown
+fastapi
+uvicorn
+python-multipart
